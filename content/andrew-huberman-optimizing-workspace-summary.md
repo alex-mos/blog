@@ -1,3 +1,11 @@
++++
+title = "Конспект видео Optimizing Workspace for Productivity, Focus, & Creativity | Huberman Lab Podcast #57"
+slug = "huberman-optimizing-workspace"
+date = 2022-11-05
+updated = 2022-11-05
+template = "post.html"
++++
+
 # Конспект видео [Optimizing Workspace for Productivity, Focus, & Creativity | Huberman Lab Podcast #57](https://www.youtube.com/watch?v=Ze2pc6NwsHQ)
 
 ## Освещение
