@@ -12,6 +12,7 @@ Aleksandr Mospan's blog
 ## post release features
 * Возможность отправить сообщение об опечатке, выделив текст и нажав cmd/ctrl+enter
 * 100 баллов в Lighthouse
+* комментарии
 
 ## pages and urls
 * `/` — posts list
@@ -33,4 +34,4 @@ Aleksandr Mospan's blog
 ## как запустить проект?
 
 * [install zola](https://www.getzola.org/documentation/getting-started/installation)
-* 
+* zola serve / zola build
